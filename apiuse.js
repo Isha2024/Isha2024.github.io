@@ -1,5 +1,5 @@
 var url = "https://jooble.org/api/";
-var key = "<YOUR_API_KEY>";
+var key = "<b01c170a-4b25-4126-b550-60980b358046>";
 var params = "{ keywords: 'it', location: 'Bern'}"
 
 //create xmlHttpRequest object
